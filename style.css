@@ -1,25 +1,13 @@
-* {
-    box-sizing: border-box;
-} 
-
 .content-wrapper {
     border: 1px solid blue;
-    overflow: hidden; /* add this to contain floated children */
+    overflow: hidden;
     max-width: 950px;
     margin: auto;
 }
 .content-left-side {
-    /*display: inline-block;
-    width:120px;
-    
-    border: 1px solid red;*/
     float: left;
     height:200px;
 }
 .content-right-side {
-    /*display: inline-block;
-    width:160px;
-    height:160px;
-    border: 1px solid green;*/
     float: left;
 }
