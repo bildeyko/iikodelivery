@@ -1,9 +1,11 @@
+div.clear {
+    clear: both;
+}
+
 #jstore-css {
     border: 1px solid blue;
     max-width: 950px;
     margin: auto;
-    display: block;
-    height: auto;
 }
 .content-left-side {
     float: left;
