@@ -5,9 +5,10 @@
 .content-left-side {
     /*display: inline-block;
     width:120px;
-    height:120px;
+    
     border: 1px solid red;*/
     float: left;
+    height:200px;
 }
 .content-right-side {
     /*display: inline-block;
