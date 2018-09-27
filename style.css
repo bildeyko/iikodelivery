@@ -1,6 +1,6 @@
 #jstore-css {
     border: 1px solid blue;
-    overflow: auto;
+    overflow: hidden;
     max-width: 950px;
     margin: auto;
 }
