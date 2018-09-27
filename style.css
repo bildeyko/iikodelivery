@@ -22,8 +22,10 @@
 }
 .content-left-side {
     display: inline-block;
+    vertical-align: top;
     height:200px;
 }
 .content-right-side {
     display: inline-block;
+    vertical-align: top;
 }
