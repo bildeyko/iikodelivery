@@ -1,6 +1,6 @@
 .content-wrapper {
     border: 1px solid blue;
-    overflow: hidden; /* add this to contain floated children */
+    overflow: auto; /* add this to contain floated children */
     max-width: 950px;
     margin: auto;
 }
