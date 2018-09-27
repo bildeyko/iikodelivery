@@ -1,0 +1,15 @@
+#content-wrapper {
+    border: 1px solid blue;
+}
+#content-left-side {
+    display: inline-block;
+    /*width:120px;
+    height:120px;
+    border: 1px solid red;*/
+}
+#content-right-side {
+    display: inline-block;
+    /*width:160px;
+    height:160px;
+    border: 1px solid green;*/
+}
