@@ -1,8 +1,10 @@
-#jstore-css {
+.content-wrapper {
     border: 1px solid blue;
-    overflow: hidden;
     max-width: 950px;
     margin: auto;
+    display: block;
+    height: auto;
+    overflow: auto;
 }
 .content-left-side {
     float: left;
