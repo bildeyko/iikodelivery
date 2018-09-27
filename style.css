@@ -1,15 +1,18 @@
 .content-wrapper {
     border: 1px solid blue;
+    overflow: hidden; /* add this to contain floated children */
 }
 .content-left-side {
-    display: inline-block;
-    /*width:120px;
+    /*display: inline-block;
+    width:120px;
     height:120px;
     border: 1px solid red;*/
+    float: left;
 }
 .content-right-side {
-    display: inline-block;
-    /*width:160px;
+    /*display: inline-block;
+    width:160px;
     height:160px;
     border: 1px solid green;*/
+    float: left;
 }
