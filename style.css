@@ -6,7 +6,7 @@ div.clear {
     border: 1px solid blue;
     max-width: 950px;
     margin: auto;
-    overflow: auto;
+    overflow: hidden;
 }
 .content-left-side {
     float: left;
