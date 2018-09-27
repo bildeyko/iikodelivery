@@ -2,8 +2,9 @@
     border: 1px solid blue;
     max-width: 950px;
     margin: auto;
-    /* display: block; */
-    overflow: auto;
+    display: block;
+    height: auto;
+    overflow: hidden;
 }
 .content-left-side {
     float: left;
