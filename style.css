@@ -1,4 +1,4 @@
-div.clear {
+/* div.clear {
     clear: both;
 }
 
@@ -13,4 +13,17 @@ div.clear {
 }
 .content-right-side {
     float: left;
+} */
+
+#jstore-css {
+    border: 1px solid blue;
+    max-width: 950px;
+    margin: auto;
+}
+.content-left-side {
+    display: inline-block;
+    height:200px;
+}
+.content-right-side {
+    display: inline-block;
 }
