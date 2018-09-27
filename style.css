@@ -1,6 +1,6 @@
-.content-wrapper {
+#jstore-css {
     border: 1px solid blue;
-    overflow: hidden;
+    overflow: auto;
     max-width: 950px;
     margin: auto;
 }
