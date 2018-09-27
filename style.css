@@ -4,7 +4,6 @@
     margin: auto;
     display: block;
     height: auto;
-    overflow: auto;
 }
 .content-left-side {
     float: left;
